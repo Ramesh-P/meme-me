@@ -1,14 +1,14 @@
 # Meme Me
 ![Alt Text](https://github.com/Ramesh-P/meme-me/blob/master/Meme%20Me/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png)
 ## Overview
-Meme Me is a meme generating app that enables a user to add a caption to a picture taken from their phone camera or selected from their photo album. After generating the meme, the user can share it with friends through Facebook, Twitter, message or email. Meme Me also temporarily stores sent memes which the user can browse in a table or a grid. User will also be able to edit the sent memes and share it with friends again.
+Meme Me is a meme generating app that enables a user to add a caption to a picture taken from their phone camera or selected from their photo album. After generating the meme, the user can share it with friends through Facebook, Twitter, message or email. Meme Me also temporarily stores sent memes which the user can browse in a table or a grid. User will also be able to edit the sent memes and share it with friends again. The complete project specification for Meme Me can be found [here](https://docs.google.com/document/d/1G2onkzN_weWmiYErhQJw1lB9-zxM-2TQ0N5bNMAaI7I/pub?embedded=true)
 ## Specification
 Meme Me is built and tested for the following software versions:
 * Xcode 8.1
 * iOS 10.0 (Minimum)
 * Swift 3.0.1
 ## Preview
-
+![meme-me](https://cloud.githubusercontent.com/assets/25907551/24083975/d2399796-0cb7-11e7-8451-d2b70c64946d.gif)
 ## Features
 Meme Me incorporates all the features stipulated by Udacity and extra credit and additional features as listed below.
 ### Extra Credit Features
@@ -39,7 +39,7 @@ Meme Me is brilliantly designed and packed with the following additional feature
 ## Authors
 * [Ramesh Parthasarathy](mailto:msg.rameshp@gmail.com)
 ## License
-Meme Me is licensed under [MIT License](https://github.com/Ramesh-P/virtual-tourist/blob/master/LICENSE)
+Meme Me is licensed under [MIT License](https://github.com/Ramesh-P/meme-me/blob/master/LICENSE)
 ## Credits
 Meme Me uses icons from:
 <pre>http://www.flaticon.com</pre>
