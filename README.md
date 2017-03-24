@@ -1,5 +1,5 @@
 # Meme Me
-![Alt Text](https://github.com/Ramesh-P/meme-me/blob/master/Meme%20Me/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png)
+![Logo](https://raw.githubusercontent.com/Ramesh-P/meme-me/master/Meme%20Me/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png)
 ## Overview
 Meme Me is a meme generating app that enables a user to add a caption to a picture taken from their phone camera or selected from their photo album. After generating the meme, the user can share it with friends through Facebook, Twitter, message or email. Meme Me also temporarily stores sent memes which the user can browse in a table or a grid. User will also be able to edit the sent memes and share it with friends again. The complete project specification for Meme Me can be found [here](https://docs.google.com/document/d/1G2onkzN_weWmiYErhQJw1lB9-zxM-2TQ0N5bNMAaI7I/pub?embedded=true)
 ## Specification
